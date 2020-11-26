@@ -1,0 +1,29 @@
+body{
+   background-color:"";
+   font-family:"Bookman Old style",serif;
+   font-weight:normal;
+}
+
+.container1{
+    font-size:15px;
+    background-color:"";
+    margin:auto;
+    width:80%;
+    padding:2px;
+}
+
+.navbar-brand1{
+    font-size:50px;
+    padding:10px;
+    font-family: 'Boogaloo', cursive;
+
+}
+
+.button1{
+    margin:auto;
+    width:100%;
+}
+
+.text-center1{
+    padding-bottom:20px;
+}
